@@ -1,0 +1,32 @@
+[
+  {
+    "id": "brainrots-mutacoes",
+    "category": "Scripts",
+    "title": "Script spawnar brainrots secretos e com mutações",
+    "short": "Gere brainrots secretos com mutações exclusivas no jogo.",
+    "price": 5.99,
+    "compare_at": 6.59,
+    "image": "assets/brainrot.png",
+    "stock": "Disponível"
+  },
+  {
+    "id": "roube-brainrot",
+    "category": "Scripts",
+    "title": "Script para encontrar servidores com os melhores brainrots",
+    "short": "Ache servidores com brainrots raros de forma rápida.",
+    "price": 5.99,
+    "compare_at": 6.59,
+    "image": "assets/roube-brainrot.png",
+    "stock": "Disponível"
+  },
+  {
+    "id": "pets-grow-garden",
+    "category": "Scripts",
+    "title": "Script Spawn Pets Grow a Garden!",
+    "short": "Faça spawn de pets e crie seu jardim com facilidade.",
+    "price": 5.99,
+    "compare_at": 6.59,
+    "image": "assets/pets-garden.png",
+    "stock": "Disponível"
+  }
+]
